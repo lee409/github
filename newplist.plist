@@ -10,7 +10,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://st.hiooy.com:8081//upload/file/ipa/2014/140624204836298.ipa</string>
+					<string>http://st.hiooy.com:8081//upload/file/ipa/2014/140625123917272.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -18,7 +18,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://bcs.duapp.com/newcsmbpupdate/icon%402x.png</string>
+					<string>icon%402x.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -26,7 +26,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://bcs.duapp.com/newcsmbpupdate/icon%402x.png</string>
+					<string>icon%402x.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
