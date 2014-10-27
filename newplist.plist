@@ -12,11 +12,27 @@
 					<key>url</key>
 					<string>http://tp.hiooy.com//upload/file/ipa/2014/141023183423114.ipa</string>
 				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>https://github.com/lee409/github/blob/master/114x114.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>https://github.com/lee409/github/blob/master/114x114.png</string>
+				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.hiooy.jukebao.ios8</string>
+				<string>com.hiooy.jukebao</string>
 				<key>bundle-version</key>
 					<string>1.0</string>
 				<key>kind</key>
