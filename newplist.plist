@@ -18,7 +18,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>icon%402x.png</string>
+					<string>https://github.com/lee409/github/blob/master/114x114.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -26,13 +26,13 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>icon%402x.png</string>
+					<string>https://github.com/lee409/github/blob/master/114x114.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.hiooy.jukebao.fixios8</string>
+				<string>com.hiooy.jukebao</string>
 				<key>bundle-version</key>
 					<string>1.0</string>
 				<key>kind</key>
