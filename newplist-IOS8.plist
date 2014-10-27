@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plist version="1.0">
+		<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://tp.hiooy.com//upload/file/ipa/2014/141023183423114.ipa</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.hiooy.jukebao.ios8</string>
+				<key>bundle-version</key>
+					<string>1.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>jukebao-InHouse</string>
+				<key>title</key>
+				<string>jukebao-InHouse</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
